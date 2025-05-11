@@ -9,3 +9,13 @@ export const housePricesData: TrainData = [
   [2200, 450],
   [2500, 500],
 ];
+
+export const customerData: TrainData = [
+  [18, 0],
+  [22, 0],
+  [25, 0],
+  [28, 1],
+  [30, 1],
+  [35, 1],
+  [40, 1],
+];
