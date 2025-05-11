@@ -12,7 +12,7 @@ To start in watch mode:
 bun dev
 ```
 
-To start:
+To start in normal mode:
 
 ```bash
 bun start 
