@@ -1,5 +1,5 @@
 import { customerData, housePricesData } from "#/datasets";
-import { LinearRegression, LogisticRegression } from "#/algorihtms";
+import { LinearRegression, LogisticRegression } from "#/algorithms";
 
 console.log("\n============= HOUSING PRICES (Linear Regression) =============\n");
 
