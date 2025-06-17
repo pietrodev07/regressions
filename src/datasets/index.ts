@@ -1,5 +1,6 @@
 import type { TrainData } from "#/types";
 
+// dataset for the linear regression example
 export const housePricesData: TrainData = [
   [900, 200],
   [1200, 250],
@@ -10,6 +11,7 @@ export const housePricesData: TrainData = [
   [2500, 500],
 ];
 
+// dataset for the logistic regression example
 export const customerData: TrainData = [
   [18, 0],
   [22, 0],
